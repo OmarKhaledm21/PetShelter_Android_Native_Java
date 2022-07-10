@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/dummy_data"
+        android:title="@string/inset_dummy_data"/>
+    <item android:id="@+id/delete_all_pets"
+        android:title="@string/delete_all_pets"/>
+</menu>
